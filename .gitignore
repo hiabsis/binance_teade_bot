@@ -1,3 +1,5 @@
 /.idea/
 /trade_bot.iml
 /app/static
+*.iml
+static
